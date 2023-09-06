@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trydeploy/static/css/main.e921a396.css",
+    "main.js": "/trydeploy/static/js/main.4c753659.js",
+    "static/media/primeicons.svg": "/trydeploy/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/trydeploy/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/trydeploy/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/trydeploy/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/trydeploy/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/gr.png": "/trydeploy/static/media/gr.0dcfd1f50604d9726622.png",
+    "static/media/ui.png": "/trydeploy/static/media/ui.50a10d300361a34361f1.png",
+    "static/media/love.png": "/trydeploy/static/media/love.f641908708c1fc1723a3.png",
+    "static/media/comment.png": "/trydeploy/static/media/comment.f3466541e2324f1a4af5.png",
+    "static/media/logo.png": "/trydeploy/static/media/logo.a610c660c93ae4ba73cc.png",
+    "static/media/color.png": "/trydeploy/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/trydeploy/index.html",
+    "main.e921a396.css.map": "/trydeploy/static/css/main.e921a396.css.map",
+    "main.4c753659.js.map": "/trydeploy/static/js/main.4c753659.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e921a396.css",
+    "static/js/main.4c753659.js"
+  ]
+}
