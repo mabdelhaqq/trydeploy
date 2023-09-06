@@ -1,0 +1,22 @@
+.app-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  padding: 80px 20px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 10;
+  background-color: white;
+  width: 16.6%;
+
+  .pmenu {
+    color: gray;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+}

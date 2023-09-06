@@ -1,0 +1,31 @@
+.home {
+  .link-new {
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    .add-post {
+      width: 100%;
+      text-align: center;
+      padding: 5px;
+      background-color: #6d3dda;
+    }
+  }
+
+  .feed-header {
+    .recent {
+      color: gray;
+      font-weight: bold;
+      padding-left: 20px;
+      padding-top: 20px;
+    }
+    .filter {
+      padding-top: 20px;
+    }
+  }
+  .posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+}

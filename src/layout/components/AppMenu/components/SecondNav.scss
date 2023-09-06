@@ -1,0 +1,42 @@
+.links2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: space-between;
+  cursor: pointer;
+  width: 100%;
+
+  .item-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 8px 0;
+
+    &:hover {
+      background-color: #f0f0f0;
+    }
+
+    .img-item {
+      margin-right: 10px;
+      width: 25px;
+      height: 25px;
+      border-radius: 50%;
+    }
+
+    .title-links {
+      color: gray;
+      font-size: 15px;
+    }
+    .count {
+      margin-left: 5px;
+      background-color: #6d3dda;
+      width: 27px;
+      height: 22px;
+      border-radius: 50%;
+      font-weight: bold;
+      color: white;
+      text-align: center;
+    }
+  }
+}
